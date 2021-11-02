@@ -2,7 +2,7 @@
 
 ![pog](https://cdn.swaggy.one/files/imgs/discord-header-logo.png)
 
-We are building developers making websites, bots, programs, and hosting junk on GitHub. swaggy.one has existed since 6/9/2021 <small>*nice*</small>. After we were created by a robot that is eerily similar to Ultron, we've been making random junk, [websites (we are named after our main one)](https://swaggy.one/), Discord bots, and way more (including a picture of a really handsome T-Rex)
+We are building developers making websites, bots, programs, and hosting junk on GitHub. We were created by a robot that is eerily similar to Ultron on 6/9/2021<small>*nice*</small>, and we've been making random junk ever since. This includes; websites [(we are named after our main one)](https://swaggy.one/), Discord bots, and way more (including a picture of a really handsome T-Rex).
 
 ### 👓 Websites
 
@@ -21,10 +21,10 @@ Now that we are talking about the important things;
 
 We have https://top.gg pages for all of them.
 
-- [sableye](https://top.gg/bot/) - A multipurpose Discord bot
+- [sableye](https://top.gg/bot/854618157901283358) - A multipurpose Discord bot
 - [Walter Clements](https://top.gg/bot/877271681457082438) - he says walter
 
-###  What's next?
+###  🦝 What's next?
 
 Stuff? 🤷 Check out our [Discord for more info.](https://swaggy.one/r/discord)
 
