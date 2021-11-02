@@ -1,8 +1,8 @@
 ## Hey, this is us 👋
 
-![weezer](https://images.nintendolife.com/e0f66909e4cc5/640x360.jpg)
+![pog](https://cdn.swaggy.one/files/imgs/discord-header-logo.png)
 
-We are building developers making websites, bots, programs, and hosting junk on GitHub. swaggy.one has existed since 6/9/2021 <small>*nice*</small>. Since we were created by a robot that is eerily similar to Ultron from Marvel's Avengers: Age of Ultron, we've been making random junk, [websites (we are named after our main one)](https://swaggy.one/), Discord bots, and way more (including a picture of a really handsome T-Rex)
+We are building developers making websites, bots, programs, and hosting junk on GitHub. swaggy.one has existed since 6/9/2021 <small>*nice*</small>. After we were created by a robot that is eerily similar to Ultron, we've been making random junk, [websites (we are named after our main one)](https://swaggy.one/), Discord bots, and way more (including a picture of a really handsome T-Rex)
 
 ### 👓 Websites
 
@@ -26,7 +26,7 @@ We have https://top.gg pages for all of them.
 
 ###  What's next?
 
-Stuff? <p>¯\_(ツ)_/¯</p> Check out our [Discord for more info.](https://swaggy.one/r/discord)
+Stuff? 🤷 Check out our [Discord for more info.](https://swaggy.one/r/discord)
 
 ---
 
