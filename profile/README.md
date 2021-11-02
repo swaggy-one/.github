@@ -2,7 +2,7 @@
 
 ![Header](https://cdn.swaggy.one/files/imgs/discord-header-logo.png)
 
-We are developers making websites, bots, programs, and hosting junk on GitHub. We were created by a robot that is eerily similar to Ultron on 6/9/2021 < small>(*nice*)</small>, and we've been making random junk ever since. This includes; websites [(we are named after our main one)](https://swaggy.one/), Discord bots, and way more [(including a picture of a really handsome T-Rex)](https://cdn.swaggy.one/files/imgs/feared.png).
+We are developers making websites, bots, programs, and hosting junk on GitHub. We were created by a robot that is eerily similar to Ultron on 6/9/2021 <small>(*nice*)</small>, and we've been making random junk ever since. This includes; websites [(we are named after our main one)](https://swaggy.one/), Discord bots, and way more [(including a picture of a really handsome T-Rex)](https://cdn.swaggy.one/files/imgs/feared.png).
 
 ### 👓 Websites
 
