@@ -1,6 +1,6 @@
 ## Hey, this is us 👋
 
-![pog](https://cdn.swaggy.one/files/imgs/discord-header-logo.png)
+[![Our GitHub stats](https://github-readme-stats.vercel.app/api?username=swaggy-one)](https://github.com/anuraghazra/github-readme-stats)
 
 We are building developers making websites, bots, programs, and hosting junk on GitHub. We were created by a robot that is eerily similar to Ultron on 6/9/2021<small>*nice*</small>, and we've been making random junk ever since. This includes; websites [(we are named after our main one)](https://swaggy.one/), Discord bots, and way more (including a picture of a really handsome T-Rex).
 
