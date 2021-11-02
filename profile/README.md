@@ -1,4 +1,4 @@
-## Hey, this is us 👋
+## Hey, this is us :trollface:
 
 ![Header](https://cdn.swaggy.one/files/imgs/discord-header-logo.png)
 
