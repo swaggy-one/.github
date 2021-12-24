@@ -21,10 +21,9 @@ Now that we are talking about the important things;
 
 We have https://top.gg pages for all of them.
 
-- [sableye](https://top.gg/bot/854618157901283358) - A multipurpose Discord bot
+- ~~[sableye](https://top.gg/bot/854618157901283358) - A multipurpose Discord bot~~
 - [Walter Clements](https://top.gg/bot/877271681457082438) - he says walter
 
-![sableye widget](https://top.gg/api/widget/854618157901283358.svg)
 ![walter widget](https://top.gg/api/widget/877271681457082438.svg)
 
 ###  🦝 What's next?
