@@ -9,11 +9,10 @@ We are developers making websites, bots, programs, and hosting junk on GitHub. W
 We probably have more websites than three or so people should need. At least we look decently cool.
 
 - https://swaggy.one
-- https://other.swaggy.one
+- ~~https://other.swaggy.one~~
 - https://cdn.swaggy.one
 - https://slashdiv.swaggy.one
-- https://sableye.dev
-- https://curiositly.dev
+- ~~https://sableye.dev~~
 
 Now that we are talking about the important things;
 
@@ -35,5 +34,5 @@ Stuff? 🤷 Check out our [Discord for more info.](https://swaggy.one/r/discord)
 <sub>https://swaggy.one/</sub>
 
 <!--
-last updated on 11/17/21
+last updated on 4/16/22
 -->
