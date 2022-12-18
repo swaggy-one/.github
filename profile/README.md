@@ -2,16 +2,14 @@
 
 ![Header](https://cdn.swaggy.one/files/imgs/discord-header-logo.png)
 
-This is my (slash1div's) personal Github org. This is used to share projects I make with friends and host *cool* stuff.
+A personal org for myself (slash1div) and my projects. 
+This is used for collaborating with friends and general use things.
 
 ### 👓 Websites
 
-Mmmm websites, mmmm cool.
+My main site:
 
 - https://swaggy.one
-- https://slashdiv.ga
-
-Now that we are talking about the important things;
 
 ### 🤖 **R O B O T S**  <small>(*they're discord bots, but robots sound cooler*)</small>
 
